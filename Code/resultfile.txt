@@ -1,0 +1,285 @@
+Rule: green grapes -> almonds
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> almonds
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: vegetables mix -> almonds
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: eggs -> burgers
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: meatballs -> burgers
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: eggs -> meatballs
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: energy bar -> green tea
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: energy bar -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: green grapes -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> green tea
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> green tea
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: whole wheat rice -> green tea
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> shrimp
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: green grapes -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: green grapes -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: turkey -> nan
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: meatballs -> eggs
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: nan -> eggs
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: nan -> meatballs
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: nan -> eggs
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: whole wheat rice -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: whole wheat rice -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> shrimp
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: shrimp -> green grapes
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: meatballs -> nan
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> mineral water
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: milk -> whole wheat rice
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: avocado -> vegetables mix
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
+Rule: mineral water -> energy bar
+Support: 0.2
+Confidence: 1.0
+Lift: 5.0
+=====================================
